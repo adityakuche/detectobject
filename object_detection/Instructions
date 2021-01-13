@@ -14,3 +14,5 @@ Copy and paste protoc.exe file in the path models-master\research
 Open the Commmand Prompt in models-master\research and copy and run the command included in protoc command.txt
 Copy the files object_detection_1.ipynb, object_detection_2.ipynb into models-master\research
 Run above codes and check
+
+This code generation is base on--> https://github.com/aieml/tensorflow-object-detection-api-configuration#models-used-in-tensorflow-object-detection-api
